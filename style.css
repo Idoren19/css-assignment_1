@@ -1,3 +1,7 @@
+html  body {
+    font-family: 'Smokum', cursive;
+}
+
 .container {
     background-color: lightgray;
 }
